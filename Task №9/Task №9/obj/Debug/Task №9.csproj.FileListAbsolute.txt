@@ -1,0 +1,28 @@
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\bin\Debug\Task №9.exe.config
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task №9.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task__9.Form1.resources
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task__9.Properties.Resources.resources
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task №9.csproj.GenerateResource.Cache
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\bin\Debug\Task №9.exe
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\bin\Debug\Task №9.pdb
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task №9.exe
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task №9.pdb
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\bin\Debug\Interop.WMPLib.dll
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Interop.WMPLib.dll
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Task №9\Task №9\obj\Debug\Task №9.csproj.ResolveComReference.cache
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\bin\Debug\Task №9.exe.config
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Interop.WMPLib.dll
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task №9.csproj.ResolveComReference.cache
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task №9.exe
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task №9.pdb
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\bin\Debug\Task №9.exe
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\bin\Debug\Task №9.pdb
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\bin\Debug\Interop.WMPLib.dll
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task №9.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task__9.Form1.resources
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task__9.Properties.Resources.resources
+C:\Users\Максимка\Desktop\Учеба\Task №9\Task №9\obj\Debug\Task №9.csproj.GenerateResource.Cache
